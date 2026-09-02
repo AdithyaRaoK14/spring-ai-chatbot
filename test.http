@@ -1,0 +1,1 @@
+GET http://localhost:8080/api/chat/stream?conversationId=conversation-1&message=Explain%20Spring%20Boot
